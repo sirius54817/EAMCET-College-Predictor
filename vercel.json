@@ -1,0 +1,10 @@
+{
+  "name": "eamcet-college-predictor",
+  "version": 1,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ]
+}
